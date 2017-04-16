@@ -1,4 +1,4 @@
-# AdminLTE for laravel
+# AdminLTE For Laravel
 
 ##  介绍
 基于[AdminLTE](https://github.com/almasaeed2010/AdminLTE)的后台模板样式 集成基本的文章 用户模块 其余的功能模板可根据实际项目需求添加
