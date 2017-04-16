@@ -21,3 +21,8 @@ git clone https://github.com/GeekGhc/adminLTE-for-laravel.git
 ```
 
 后台开发过程时可借助`MustBeAnAdmin` middleware 完成逻辑判断
+
+在管理用户权限的`Packages`
+- [Laravel Permission](https://github.com/spatie/laravel-permission) 目前我的项目就是用的这个`Package`
+- [Laravel Roles](https://github.com/romanbican/roles)
+- [ultraware/roles](https://github.com/ultraware/roles)
