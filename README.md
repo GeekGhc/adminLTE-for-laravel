@@ -19,7 +19,7 @@ git clone https://github.com/GeekGhc/adminLTE-for-laravel.git
 ```
 ### 2.根目录下创建.env文件
 ```
- php artisan key:generate  //生成key值
+ php artisan key:generate
 ```
 
 后台开发过程时可借助`MustBeAnAdmin` middleware 完成逻辑判断
