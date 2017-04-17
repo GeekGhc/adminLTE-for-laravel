@@ -196,8 +196,8 @@
                         </span>
                     </a>
                     <ul class="treeview-menu">
-                        <li><a href="../tables/simple.html"><i class="fa fa-circle-o"></i>用户表格</a></li>
-                        <li><a href="../tables/data.html"><i class="fa fa-circle-o"></i>文章表格</a></li>
+                        <li><a href="#"><i class="fa fa-circle-o"></i>用户表格</a></li>
+                        <li><a href="#"><i class="fa fa-circle-o"></i>文章表格</a></li>
                     </ul>
                 </li>
 
@@ -210,9 +210,9 @@
                         </span>
                     </a>
                     <ul class="treeview-menu">
-                        <li><a href="{{url('admin/article/index')}}"><i class="fa fa-circle-o"></i>订阅邮件</a></li>
-                        <li><a href=""><i class="fa fa-circle-o"></i>注册成功</a></li>
-                        <li><a href=""><i class="fa fa-circle-o"></i>会员到期</a></li>
+                        <li><a href="#"><i class="fa fa-circle-o"></i>订阅邮件</a></li>
+                        <li><a href="#"><i class="fa fa-circle-o"></i>注册成功</a></li>
+                        <li><a href="#"><i class="fa fa-circle-o"></i>会员到期</a></li>
                     </ul>
                 </li>
 
@@ -224,13 +224,13 @@
                         </span>
                     </a>
                     <ul class="treeview-menu">
-                        <li><a href=""><i class="fa fa-circle-o"></i> Profile</a></li>
-                        <li><a href=""><i class="fa fa-circle-o"></i> Login</a></li>
-                        <li><a href=""><i class="fa fa-circle-o"></i> Register</a></li>
-                        <li><a href=""><i class="fa fa-circle-o"></i> 404 Error</a></li>
-                        <li><a href=""><i class="fa fa-circle-o"></i> 500 Error</a></li>
-                        <li><a href=""><i class="fa fa-circle-o"></i> Blank Page</a></li>
-                        <li><a href=""><i class="fa fa-circle-o"></i> Pace Page</a></li>
+                        <li><a href="#"><i class="fa fa-circle-o"></i> Profile</a></li>
+                        <li><a href="#"><i class="fa fa-circle-o"></i> Login</a></li>
+                        <li><a href="#"><i class="fa fa-circle-o"></i> Register</a></li>
+                        <li><a href="#"><i class="fa fa-circle-o"></i> 404 Error</a></li>
+                        <li><a href="#"><i class="fa fa-circle-o"></i> 500 Error</a></li>
+                        <li><a href="#"><i class="fa fa-circle-o"></i> Blank Page</a></li>
+                        <li><a href="#"><i class="fa fa-circle-o"></i> Pace Page</a></li>
                     </ul>
                 </li>
 
