@@ -1,6 +1,6 @@
 @extends('admin.app')
 @section('other-css')
-    <link href="//cdn.bootcss.com/select2/4.0.3/css/select2.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/dist/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css">
 @endsection
 @section('content-header')
     <h1>
@@ -77,6 +77,16 @@
             </div>
         </form>
     </div>
-
 @stop
+
+@section('other-js')
+    <script src="https://cdn.ckeditor.com/4.5.7/standard/ckeditor.js"></script>
+    <script src="/dist/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js"></script>
+    <script>
+        $(function () {
+            //bootstrap WYSIHTML5 - text editor
+            $(".textarea").wysihtml5();
+        });
+    </script>
+@endsection
 

@@ -9,6 +9,8 @@
 ![image](public/screenshot/1.png)
 ### 文章列表
 ![image](public/screenshot/2.png)
+### 创建文章
+![image](public/screenshot/3.png)
 
 ## 安装
 ### 1.clone到本地

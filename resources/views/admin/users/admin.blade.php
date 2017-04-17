@@ -6,7 +6,8 @@
     </h1>
     <ol class="breadcrumb">
         <li><a href="{{url('/dashboard')}}"><i class="fa fa-dashboard"></i> 主页</a></li>
-        <li class="active"><a href="{{url('/admin/info/index')}}">用户管理 - 个人资料</a></li>
+        <li><a href="{{url('/admin/info/index')}}">用户管理</a></li>
+        <li class="active"><a href="">个人资料</a></li>
     </ol>
 @stop
 
@@ -52,6 +53,5 @@
             </div>
         </div>
     </form>
-
 @stop
 
