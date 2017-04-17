@@ -18,7 +18,7 @@ Route::get('/', function () {
 Route::group(['namespace' => 'Admin'], function () {
     Route::get('/dashboard', 'AdminController@index'); //后台首页
     Route::get('/admin/profile','AdminController@adminInfo');//管理员资料
-    Route::get('/admin/users','AdminController@userMember');//用户管理界面
+    Route::get('/admin/users','UserController@userMember');//用户管理界面
     Route::get('/admin/article/index','ArticleController@index');//文章列表界面
     Route::get('/admin/article/create','ArticleController@create');//创建文章
 });

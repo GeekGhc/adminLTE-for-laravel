@@ -34,15 +34,7 @@ class AdminController extends Controller
         return view('admin.dashboard.index', compact('collects'));
     }
 
-    //用户信息资料
 
-    /**
-     * @return \Illuminate\Contracts\View\Factory|\Illuminate\View\View
-     */
-    public function userMember()
-    {
-        return view('admin.users.index');
-    }
 
     //管理员信息
 
