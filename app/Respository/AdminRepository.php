@@ -30,7 +30,7 @@ class AdminRepository
                     'sup' => '条',
                     'icon' => 'ion-film-marker',
                     'bck' => 'bg-yellow',
-                    'url' => 'admin/series/index'
+                    'url' => 'admin/message/index'
                 ],
                 [
                     'count' => 245,
@@ -38,7 +38,7 @@ class AdminRepository
                     'sup' => '条',
                     'icon' => 'ion-android-chat',
                     'bck' => 'bg-red',
-                    'url' => 'admin/discussion/index'
+                    'url' => 'admin/comment/index'
                 ],
                 [
                     'count' => 44,
@@ -46,7 +46,7 @@ class AdminRepository
                     'sup' => '封',
                     'icon' => 'ion-ios-email-outline',
                     'bck' => 'bg-orange',
-                    'url' => 'admin/comment/index'
+                    'url' => 'admin/mail/index'
                 ],
                 [
                     'count' => 16,
@@ -70,7 +70,7 @@ class AdminRepository
                     'sup' => '首',
                     'icon' => 'ion-music-note',
                     'bck' => 'bg-maroon',
-                    'url' => 'admin/broadcast/index'
+                    'url' => 'admin/music/index'
                 ]
             ]
         );
