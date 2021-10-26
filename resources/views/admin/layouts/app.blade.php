@@ -8,9 +8,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     @section('header-css')
-    <link href="//cdn.bootcss.com/font-awesome/4.6.0/css/font-awesome.css" rel="stylesheet">
+    <link href="//cdn.staticfile.org/font-awesome/4.6.0/css/font-awesome.min.css" rel="stylesheet">
     <link href="//cdn.bootcss.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
+    <link rel="stylesheet" href="https://cdn.staticfile.org/ionicons/2.0.1/css/ionicons.min.css">
     <link rel="stylesheet" href="{{url('dist/css/AdminLTE.min.css')}}">
     <link rel="stylesheet" href="{{url('dist/css/_all-skins.min.css')}}">
     @show
