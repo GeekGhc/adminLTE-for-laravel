@@ -9,7 +9,7 @@
 
     @section('header-css')
     <link href="//cdn.staticfile.org/font-awesome/4.6.0/css/font-awesome.min.css" rel="stylesheet">
-    <link href="//cdn.bootcss.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet">
+    <link href="//cdn.bootcss.com/twitter-bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.staticfile.org/ionicons/2.0.1/css/ionicons.min.css">
     <link rel="stylesheet" href="{{url('dist/css/AdminLTE.min.css')}}">
     <link rel="stylesheet" href="{{url('dist/css/_all-skins.min.css')}}">
@@ -50,7 +50,7 @@
 
     @section('head-js')
         <script src="//cdn.bootcss.com/jquery/2.1.0/jquery.min.js"></script>
-        <script src="//cdn.bootcss.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+        <script src="//cdn.bootcss.com/twitter-bootstrap/3.3.0/js/bootstrap.min.js"></script>
         <script src="//cdn.bootcss.com/vue/2.0.0-rc.5/vue.min.js"></script>
         <script src="https://cdn.jsdelivr.net/vue.resource/1.0.2/vue-resource.min.js"></script>
         <script src="{{url('dist/js/app.min.js')}}"></script>
