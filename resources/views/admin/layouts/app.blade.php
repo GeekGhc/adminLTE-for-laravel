@@ -50,7 +50,7 @@
 
     @section('head-js')
         <script src="//cdn.staticfile.org/jquery/2.1.0/jquery.min.js"></script>
-        <script src="//gitee.com/uitci/CDN/blob/master/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+        <script src="//gitee.com/uitci/CDN/raw/master/bootstrap/3.3.0/js/bootstrap.min.js"></script>
         <script src="//cdn.staticfile.org/vue/2.0.0/vue.min.js"></script>
         <script src="//cdn.staticfile.org/vue-resource/1.0.2/vue-resource.min.js"></script>
         <script src="{{url('dist/js/app.min.js')}}"></script>
