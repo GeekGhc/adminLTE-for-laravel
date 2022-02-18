@@ -49,10 +49,10 @@
     @show
 
     @section('head-js')
-        <script src="//cdn.bootcss.com/jquery/2.1.0/jquery.min.js"></script>
+        <script src="//cdn.staticfile.org/jquery/2.1.0/jquery.min.js"></script>
         <script src="//cdn.bootcss.com/twitter-bootstrap/3.3.0/js/bootstrap.min.js"></script>
-        <script src="//cdn.bootcss.com/vue/2.0.0-rc.5/vue.min.js"></script>
-        <script src="https://cdn.jsdelivr.net/vue.resource/1.0.2/vue-resource.min.js"></script>
+        <script src="//cdn.staticfile.org/vue/2.0.0/vue.min.js"></script>
+        <script src="//cdn.staticfile.org/vue-resource/1.0.2/vue-resource.min.js"></script>
         <script src="{{url('dist/js/app.min.js')}}"></script>
         <script src="{{url('dist/js/demo.js')}}"></script>
     @show
