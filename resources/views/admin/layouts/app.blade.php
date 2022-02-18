@@ -8,8 +8,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     @section('header-css')
-    <link href="//lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/font-awesome/4.6.0/css/font-awesome.css" rel="stylesheet">
-    <link href="//gitee.com/uitci/CDN/raw/master/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet">
+    <link href="//cdn.staticfile.org/font-awesome/4.6.0/css/font-awesome.css" rel="stylesheet">
+    <link href="//cdn.staticfile.org/twitter-bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="{{url('css/source/semantic.min.css')}}">
     <link rel="stylesheet" href="https://cdn.staticfile.org/ionicons/2.0.1/css/ionicons.min.css">
     <link rel="stylesheet" href="{{url('dist/css/AdminLTE.min.css')}}">
@@ -61,7 +61,7 @@
 
     @section('head-js')
         <script src="//cdn.staticfile.org/jquery/2.1.0/jquery.min.js"></script>
-        <script src="//gitee.com/uitci/CDN/raw/master/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+        <script src="//cdn.staticfile.org/twitter-bootstrap/3.0.0/js/bootstrap.min.js"></script>
         <script src="//cdn.staticfile.org/vue/2.0.0-rc.5/vue.min.js"></script>
         <script src="//cdn.staticfile.org/vue-resource/1.0.2/vue-resource.min.js"></script>
         <script src="{{url('dist/js/app.min.js')}}"></script>
